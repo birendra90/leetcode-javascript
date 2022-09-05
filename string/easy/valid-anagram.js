@@ -41,4 +41,4 @@
 };
 
 // Approach 2 - Using sorting and compare the both strings
-// Time - O(N) | Space - O(1)
+// Time - O(NlogN) | Space - O(1)
